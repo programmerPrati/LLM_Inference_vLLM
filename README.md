@@ -21,4 +21,4 @@ To evaluate these optimizations, I implemented these techniques and benchmarked 
 
 > **Note:** Benchmarks were conducted on an **NVIDIA L4 GPU** within a **Google Colab** environment. Performance results reflect real-world overhead and system-level constraints of a hosted notebook instance.
 
-For a more detailed explanation of the theory and implementation, see my **[LLM Inference Overview Document](./LLM_Inference_Overview.pdf.md)**.
+For a more detailed explanation of the theory and implementation, see my **[LLM Inference Overview Document](./LLM_Inference_Overview.pdf)**.
